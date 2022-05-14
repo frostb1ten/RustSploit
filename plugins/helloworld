@@ -1,0 +1,7 @@
+{
+"name": "HelloWorld",
+"description": "Hello World",
+"type": "None",
+"version": "1.0",
+"payload": "HelloWorld"
+}
